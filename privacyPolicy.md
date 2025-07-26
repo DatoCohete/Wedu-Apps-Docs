@@ -177,7 +177,4 @@ Se le aconseja que revise esta Política de Privacidad periódicamente para cual
 
 ## Contáctenos
 
-Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos:
-
-- Por correo electrónico: correoweduapp@gmail.com
-- Por número de teléfono: +56966877887
+Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos al correo electrónico datocohete@gmail.com.
